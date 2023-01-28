@@ -109,7 +109,24 @@ h2{
     text-align: center;
     color: darkgray;
     font-size: 15px;
-
+}
+.third-section{
+    background-color: #e5e7eb;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.quote-msg{
+    font-weight:lighter;
+    font-size: 36px;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+.auther{
+    font-weight: bolder;
+    margin-left: 750px;
 }
 
 
